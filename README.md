@@ -1,1 +1,2 @@
-My FIrst Readme
+My First Readme
+good programmer
